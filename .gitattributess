@@ -1,0 +1,2 @@
+# files with HTTP requests, should preserve \r\n endings
+src/test/resources/request/           text eol=crlf
